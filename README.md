@@ -1,6 +1,24 @@
-#  Diseño y análisis de algoritmos 2021-1
+# Diseño y Análisis de Algoritmos.
 
 ## Laberinto Backtracking.
 
-El problema del laberinto consiste en encontrar un camino desde la posición inicial (esquina superior izquierda) hasta la posición final (esquina inferior derecha), mientras se recorre un entorno con obstáculos (o muros). Es un problema recurrente en robótica, en la que se buscan soluciones
-(a menudo óptimas) para el empleo de vehículos autónomosen diferentes tareas (por ejemplo, en la industria para transportar productos a través de fábricas u otros lugares).
+Diversos archivos que contienen algoritmos vistos en clase de Diseño y Análisis de Algoritmos en la Facultad de Estudios Superiores Aragón.
+
+## Temas 📄
+*For anidados
+*Recursividad
+*Serie de Fibonacci
+*Array simple, array 2D y array 3D
+*Pilas (Stack/LIFO)
+*Colas (Queue/FIFO)
+*Búsqueda lineal, búsqueda binaria
+*Árboles
+*Búsqueda de palíndromos
+
+## Construido con 🛠️
+
+* Python
+
+## Autores ✒️
+
+* **Josh Trejo** - *Programación* - [Josh Trejo](https://github.com/jorgejoshuatt)
