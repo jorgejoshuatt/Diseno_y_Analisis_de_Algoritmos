@@ -1,7 +1,3 @@
-/*
-Summary: Binary search compares the search value with the value of the middle element of the array. If they match, then a matching element has been found and its position is returned. Otherwise, if the search value is less than the middle element's value, then the algorithm repeats its action on the sub-array to the left of the middle element or, if the search value is greater, on the sub-array to the right.
-Complexity - O(log n)
-*/
 
 #include <stdio.h>
 void main()
@@ -64,21 +60,3 @@ void main()
 	getch();
 }
 
-/*
-Input: Enter the value of num
-5
-Enter the elements one by one
-23
-90
-56
-15
-58
-Sorted array is...
-15
-23
-56
-58
-90
-Enter the element to be searched
-58
-*/
