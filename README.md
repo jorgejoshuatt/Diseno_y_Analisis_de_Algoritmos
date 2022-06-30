@@ -1,19 +1,17 @@
 # Diseño y Análisis de Algoritmos.
 
-## Laberinto Backtracking.
-
 Diversos archivos que contienen algoritmos vistos en clase de Diseño y Análisis de Algoritmos en la Facultad de Estudios Superiores Aragón.
 
 ## Temas 📄
-*For anidados
-*Recursividad
-*Serie de Fibonacci
-*Array simple, array 2D y array 3D
-*Pilas (Stack/LIFO)
-*Colas (Queue/FIFO)
-*Búsqueda lineal, búsqueda binaria
-*Árboles
-*Búsqueda de palíndromos
+* For anidados
+* Recursividad
+* Serie de Fibonacci
+* Array simple, array 2D y array 3D
+* Pilas (Stack/LIFO)
+* Colas (Queue/FIFO)
+* Búsqueda lineal, búsqueda binaria
+* Árboles
+* Búsqueda de palíndromos
 
 ## Construido con 🛠️
 
