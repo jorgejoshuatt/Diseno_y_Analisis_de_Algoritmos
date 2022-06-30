@@ -1,0 +1,16 @@
+from listas_enlazadas import ListaEnlazada
+def main():
+    le=ListaEnlazada()
+    le.append(10)
+    le.append(20)
+    le.transversal()
+    le.prepend(5)
+    le.prepend(100)
+    le.transversal()
+    nodo_x=le.get_tail()
+    print(f"El último nodo contiene un {nodo_x.data}")
+    le.add_after(10,15)
+    le.transversal()
+    le.remove(10)
+    le.transversal()
+main()
