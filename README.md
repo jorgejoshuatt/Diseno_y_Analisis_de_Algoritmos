@@ -1,6 +1,11 @@
 # Diseño y Análisis de Algoritmos.
 
-Diversos archivos que contienen algoritmos vistos en clase de Diseño y Análisis de Algoritmos en la Facultad de Estudios Superiores Aragón.
+Diversos programas que contienen estructuras de datos y algoritmos vistos en clase de Diseño y Análisis de Algoritmos en la Facultad de Estudios Superiores Aragón.
+
+## Abreviaciones
+
+* DAA ➡️ Diseño y Análisis de Algoritmos
+* ED  ➡️ Estructura de datos
 
 ## Temas 📄
 * For anidados
@@ -15,7 +20,8 @@ Diversos archivos que contienen algoritmos vistos en clase de Diseño y Análisi
 
 ## Construido con 🛠️
 
-* Python
+* [Google Colab](https://colab.research.google.com) 💻
+* [Python](https://www.python.org) 🐍
 
 ## Autores ✒️
 
